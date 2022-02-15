@@ -1,4 +1,15 @@
-### Hi there 👋
+# Здравствуй! 
+
+### Меня зовут артем, и я фронтенд-разработчик
+
+**Мой технологический стэк:**
+* HTML/CSS
+* JavaScript
+* Vue3
+
+Связаться со мной: [telegram](https://t.me/ArtemMoskvitin)
+
+
 
 <!--
 **Tema26/Tema26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
