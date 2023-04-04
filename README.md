@@ -1,13 +1,16 @@
-# Здравствуй! 
+# Hello! 
 
-### Меня зовут Артем, и я фронтенд-разработчик
+### My name is Artem, I'm web developer
 
-**Мой технологический стэк:**
+**🔭Tech stack:**
 * HTML/CSS
-* JavaScript
+* JavaScript/Typescript
 * Vue3
+* NodeJs
+* telegraf
 
-Связаться со мной: [telegram](https://t.me/ArtemMoskvitin)
+📫Link: [telegram](https://t.me/ArtemMoskvitin)
+          email: moskvitin.artem@gmail.com
 
 
 
