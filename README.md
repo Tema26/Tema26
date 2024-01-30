@@ -5,7 +5,7 @@
 **🔭Tech stack:**
 * HTML/CSS
 * JavaScript/Typescript
-* Vue3
+* Vue3/React
 * NodeJs
 * telegraf
 
